@@ -4,7 +4,7 @@
 
 ``` git clone https://github.com/Jorge3033/8Volve_test.git ```
 
-## Run 
+## Install dependences
   ``` npm install ```
 ### Primes test
 
